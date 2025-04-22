@@ -1,67 +1,114 @@
-### Hi there 👋
 
-## I'm TORIOP
-![](https://komarev.com/ghpvc/?username=your-TORIOP23&color=0069b4)
-<table>
-  <tr>
-    <td>
-      <h2> 💻 &nbsp;About Me </h2>
-       <ul>
-        <li>📚 &nbsp; Studying Information Technology at <a href="https://www.vnu.edu.vn/home/">VNU</a></li>
-        <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
-       </ul>
-       <p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TORIOP23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
-    </td>
-    <td>
-     <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
-     </p>
-    </td>
-  </tr>
-  <tr>
-   <td>
-     <h2> 🛠 &nbsp;Tech Stack</h2>
-     <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
-     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <br>
-     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <br>
-     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-     <br>
-     <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-     <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
-     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-   </td>
-   <td>
-    <div align="center">
-      <h2><b>How to Reach Me</b></h2>
-      <br>
-      <p>Please don't hesitate to contact me 
-        <br>if you need further information or help.
-      </p>
-      <br>
-      <a href="https://www.facebook.com/TORIOP/" target="_blank">
-      <img align="center" alt="TORIOP | Facebook" width="30em" src="https://img.icons8.com/ios-glyphs/1x/facebook-new.png" />
-      </a> &nbsp;&nbsp;
-      <a href="mailto:vinhtran23022003@gmail.com?>
-      <img align="center" alt="TORIOP | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/tran-duc-vinh-toriop/" >
-      <img align="center" alt="TORIOP | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
-      </a> &nbsp;&nbsp;
-      <br>
-    </div>
-   </td>
-  </tr>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm TORIOP</h1></summary>
+  </ul>
+</div>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">
+      A passionate developer from Vietnam
+      <!-- Talk is cheap. Show me the code. -->
+      </h2>
+    </summary>
+    <img src="https://komarev.com/ghpvc/?username=your-TORIOP23&color=0069b4" alt="profile views" />
+  </ul>
+</div>
+
+
+<!--Intro start-->
+<!-- - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+
+- 📫 Feel free to reach me out **nishantjangid6377@gmail.com** -->
+<!--Intro end-->
+
+
+
+<!--- stats -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TORIOP23&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://nirzak-streak-stats.vercel.app?user=TORIOP23&theme=dark" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TORIOP23&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  
+  </td>
+</tr>
 </table>
+<!--- stats (end) -->
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=angular,nextjs,spring,postgres,mongodb,mysql,react,tailwind&perline=14" />
+  </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,nodejs,postman,npm,pnpm,vim,gradle&perline=14" />
+  </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=py,java,kotlin,ts,css,html,md,cpp&perline=14" />
+  </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=obsidian,notion,ubuntu&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/tran-duc-vinh-toriop/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="toriop" style="height: 30px; margin: 0 5px;">
+</a>
+<a href="mailto:vinhtran23022003@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="toriop" style="height: 30px; margin: 0 5px;">
+</a>
+<a href="https://www.facebook.com/TORIOP/" target="_blank">
+<img alt="TORIOP | Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="toriop" style="height: 30px; margin: 0 5px;"/>
+</a>
+<!-- <a href="mailto:vinhtran23022003@gmail.com?>
+<img align="center" alt="TORIOP | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+<a href="https://www.linkedin.com/in/tran-duc-vinh-toriop/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  -->
+
+</p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

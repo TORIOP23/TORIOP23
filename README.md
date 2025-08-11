@@ -42,16 +42,16 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats-murex-psi.vercel.app/api?username=TORIOP23&theme=tokyonight&show_icons=true&count_private=true" />
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TORIOP23&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://nirzak-streak-stats.vercel.app?user=TORIOP23&theme=tokyonight" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-murex-psi.vercel.app/api/top-langs/?username=TORIOP23&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TORIOP23&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
   
   </td>
 </tr>
@@ -97,7 +97,7 @@
 <a href="https://www.linkedin.com/in/tran-duc-vinh-toriop/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="toriop" style="height: 30px; margin: 0 5px;">
 </a>
-<a href="mailto:vinhtran23022003@gmail.com" target="_blank">
+<a href="mailto:toriop.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="toriop" style="height: 30px; margin: 0 5px;">
 </a>
 <a href="https://www.facebook.com/TORIOP/" target="_blank">

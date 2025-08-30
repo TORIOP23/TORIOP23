@@ -70,13 +70,13 @@
 <!--tech stack icons-->
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=angular,nextjs,spring,postgres,mongodb,mysql,react,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,mysql,react,angular,nextjs,tailwind&perline=14" />
   </a>
   <a>
     <img src="https://skillicons.dev/icons?i=git,github,docker,nodejs,postman,npm,pnpm,vim,gradle&perline=14" />
   </a>
   <a>
-    <img src="https://skillicons.dev/icons?i=py,java,kotlin,ts,css,html,md,cpp&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,py,ts,css,html,md,cpp&perline=14" />
   </a>
   <a>
     <img src="https://skillicons.dev/icons?i=obsidian,notion,ubuntu&perline=14" />
